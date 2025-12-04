@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environments
+env/
+venv/
+ENV/
+.venv/
+.pip/
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtualenv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# VSCode
+.vscode/
+
+# Environment variables
+.env
+.env.*
+
+# Alembic SQLite (if used later)
+*.db
+
+# Docker
+**/docker-data/
+**/postgres-data/
+**/redis-data/
+
+# macOS
+.DS_Store
