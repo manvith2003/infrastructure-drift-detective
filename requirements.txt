@@ -8,3 +8,5 @@ redis
 pydantic-settings
 bcrypt
 python-jose
+email-validator
+groq

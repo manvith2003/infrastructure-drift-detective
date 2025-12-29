@@ -1,0 +1,9 @@
+{
+  "vm": {
+    "size": "medium",
+    "image": "ubuntu"
+  },
+  "database": {
+    "version": "v12"
+  }
+}

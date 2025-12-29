@@ -1,0 +1,6 @@
+{
+  "vm": {
+    "size": "small",
+    "image": "ubuntu"
+  }
+}
